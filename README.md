@@ -1,1 +1,2 @@
-# Estimation of Volatility and ES with Variational Auto-Encoder
+# Deep Generative Model for Regime-Switching Conditional
+Volatility
