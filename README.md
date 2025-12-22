@@ -1,1 +1,1 @@
-# Deep Generative Model for Regime-Switching Conditional Volatility
+# Deep Generative Model for Regime-Switching Volatility
